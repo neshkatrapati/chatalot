@@ -18,7 +18,7 @@ Install
 - create a database in your server
 - change connection.php 
   - change the host,username,password accordingly
-- Download template SQL from [HERE](http://tinyurl.com/7rn4h7t)
+- Download template SQL from [HERE](http://tinyurl.com/7rn4h7t) and import it to your database
 - run and see!
 
 Try
