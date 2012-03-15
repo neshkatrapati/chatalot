@@ -1,6 +1,11 @@
 CHATALOT
 ========
 
+Requirements
+------------
+- PHP
+- MySQL
+
 Install
 -------
 
@@ -9,6 +14,7 @@ Install
 - create a database in your server
 - change connection.php 
   - change the host,username,password accordingly
+- Download template SQL from [HERE](http://tinyurl.com/7rn4h7t)
 - run and see!
 
 Try
