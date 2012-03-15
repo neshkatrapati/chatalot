@@ -1,6 +1,10 @@
 CHATALOT
 ========
 
+About
+-----
+Chatalot is a simple AJAX based chatting webapp written in PHP. Its not completely developed but, you are welcome to test it and contribute. This is a free software. This also features twitter-bootstrap, a css framework
+
 Requirements
 ------------
 - PHP
