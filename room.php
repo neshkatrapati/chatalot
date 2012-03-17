@@ -33,7 +33,7 @@
 	echo "<center><div class='centerd'>";
 		echo "<table class='table table-bordered' style='text-align:center'>";
 		echo "<tr><td>Room Name</td><td><input type='text' name='rname'></input></td></tr>";
-		echo "<tr><td>Your Name</td><td><input type='text' name='creator'></input></td></tr>";
+		echo "<tr><td>Your Name</td><td><input type='text' value='".$_COOKIE["user"]."' name='creator'></input></td></tr>";
 		echo "<tr><td></td><td><input type='submit' name='phase1' class='btn'></input></td></tr>";
 		echo "</table>";
 	echo "</div></center>";
